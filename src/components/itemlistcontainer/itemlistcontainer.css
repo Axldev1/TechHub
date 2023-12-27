@@ -1,0 +1,11 @@
+.item-list-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+  }
+  
+  .greeting {
+    font-size: 18px;
+    color: #333;
+  }
+  
